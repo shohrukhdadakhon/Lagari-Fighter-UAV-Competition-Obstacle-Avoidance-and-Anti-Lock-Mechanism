@@ -1,0 +1,9 @@
+C:\Users\shokh\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\shokh\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\shokh\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\shokh\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\shokh\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.Server.resources
+C:\Users\shokh\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\Users\shokh\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\shokh\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\shokh\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.pdb

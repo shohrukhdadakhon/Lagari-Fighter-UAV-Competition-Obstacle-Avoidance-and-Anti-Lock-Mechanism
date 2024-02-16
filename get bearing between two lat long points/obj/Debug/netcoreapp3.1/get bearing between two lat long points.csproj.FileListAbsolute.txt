@@ -1,0 +1,13 @@
+C:\Users\shokh\Desktop\get bearing between two lat long points\obj\Debug\netcoreapp3.1\get bearing between two lat long points.csprojAssemblyReference.cache
+C:\Users\shokh\Desktop\get bearing between two lat long points\obj\Debug\netcoreapp3.1\get bearing between two lat long points.AssemblyInfoInputs.cache
+C:\Users\shokh\Desktop\get bearing between two lat long points\obj\Debug\netcoreapp3.1\get bearing between two lat long points.AssemblyInfo.cs
+C:\Users\shokh\Desktop\get bearing between two lat long points\obj\Debug\netcoreapp3.1\get bearing between two lat long points.csproj.CoreCompileInputs.cache
+C:\Users\shokh\Desktop\get bearing between two lat long points\bin\Debug\netcoreapp3.1\get bearing between two lat long points.exe
+C:\Users\shokh\Desktop\get bearing between two lat long points\bin\Debug\netcoreapp3.1\get bearing between two lat long points.deps.json
+C:\Users\shokh\Desktop\get bearing between two lat long points\bin\Debug\netcoreapp3.1\get bearing between two lat long points.runtimeconfig.json
+C:\Users\shokh\Desktop\get bearing between two lat long points\bin\Debug\netcoreapp3.1\get bearing between two lat long points.runtimeconfig.dev.json
+C:\Users\shokh\Desktop\get bearing between two lat long points\bin\Debug\netcoreapp3.1\get bearing between two lat long points.dll
+C:\Users\shokh\Desktop\get bearing between two lat long points\bin\Debug\netcoreapp3.1\get bearing between two lat long points.pdb
+C:\Users\shokh\Desktop\get bearing between two lat long points\obj\Debug\netcoreapp3.1\get bearing between two lat long points.dll
+C:\Users\shokh\Desktop\get bearing between two lat long points\obj\Debug\netcoreapp3.1\get bearing between two lat long points.pdb
+C:\Users\shokh\Desktop\get bearing between two lat long points\obj\Debug\netcoreapp3.1\get bearing between two lat long points.genruntimeconfig.cache

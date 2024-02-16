@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "get bearing between two lat long points", "get bearing between two lat long points.csproj", "{AC9EFA74-7E0D-41DB-B3C5-F102B0265616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9EFA74-7E0D-41DB-B3C5-F102B0265616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9EFA74-7E0D-41DB-B3C5-F102B0265616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9EFA74-7E0D-41DB-B3C5-F102B0265616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9EFA74-7E0D-41DB-B3C5-F102B0265616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26EAE9A9-B0CC-4051-A6C7-CEE3700C6F6D}
+	EndGlobalSection
+EndGlobal

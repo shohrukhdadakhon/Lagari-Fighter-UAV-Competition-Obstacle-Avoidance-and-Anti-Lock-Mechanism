@@ -1,0 +1,7 @@
+C:\Users\shokh\Desktop\lla2ecef\bin\Release\lla2ecef.exe.config
+C:\Users\shokh\Desktop\lla2ecef\bin\Release\lla2ecef.exe
+C:\Users\shokh\Desktop\lla2ecef\bin\Release\lla2ecef.pdb
+C:\Users\shokh\Desktop\lla2ecef\obj\Release\lla2ecef.csproj.CoreCompileInputs.cache
+C:\Users\shokh\Desktop\lla2ecef\obj\Release\lla2ecef.exe
+C:\Users\shokh\Desktop\lla2ecef\obj\Release\lla2ecef.pdb
+C:\Users\shokh\Desktop\lla2ecef\obj\Release\lla2ecef.csprojAssemblyReference.cache

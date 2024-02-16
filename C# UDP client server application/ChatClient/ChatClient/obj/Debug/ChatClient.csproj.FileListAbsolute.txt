@@ -1,0 +1,9 @@
+C:\Users\shokh\Desktop\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\shokh\Desktop\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\shokh\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\shokh\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.Client.resources
+C:\Users\shokh\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\shokh\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\shokh\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\shokh\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\shokh\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.pdb

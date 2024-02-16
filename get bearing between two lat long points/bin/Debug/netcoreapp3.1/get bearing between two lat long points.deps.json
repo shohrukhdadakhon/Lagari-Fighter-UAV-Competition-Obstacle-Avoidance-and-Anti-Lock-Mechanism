@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "get bearing between two lat long points/1.0.0": {
+        "runtime": {
+          "get bearing between two lat long points.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "get bearing between two lat long points/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

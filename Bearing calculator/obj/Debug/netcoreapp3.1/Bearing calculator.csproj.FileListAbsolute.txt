@@ -1,0 +1,26 @@
+C:\Users\shokh\Desktop\Bearing calculator\bin\Debug\netcoreapp3.1\Bearing calculator.exe
+C:\Users\shokh\Desktop\Bearing calculator\bin\Debug\netcoreapp3.1\Bearing calculator.deps.json
+C:\Users\shokh\Desktop\Bearing calculator\bin\Debug\netcoreapp3.1\Bearing calculator.runtimeconfig.json
+C:\Users\shokh\Desktop\Bearing calculator\bin\Debug\netcoreapp3.1\Bearing calculator.runtimeconfig.dev.json
+C:\Users\shokh\Desktop\Bearing calculator\bin\Debug\netcoreapp3.1\Bearing calculator.dll
+C:\Users\shokh\Desktop\Bearing calculator\bin\Debug\netcoreapp3.1\Bearing calculator.pdb
+C:\Users\shokh\Desktop\Bearing calculator\obj\Debug\netcoreapp3.1\Bearing calculator.csprojAssemblyReference.cache
+C:\Users\shokh\Desktop\Bearing calculator\obj\Debug\netcoreapp3.1\Bearing calculator.AssemblyInfoInputs.cache
+C:\Users\shokh\Desktop\Bearing calculator\obj\Debug\netcoreapp3.1\Bearing calculator.AssemblyInfo.cs
+C:\Users\shokh\Desktop\Bearing calculator\obj\Debug\netcoreapp3.1\Bearing calculator.csproj.CoreCompileInputs.cache
+C:\Users\shokh\Desktop\Bearing calculator\obj\Debug\netcoreapp3.1\Bearing calculator.dll
+C:\Users\shokh\Desktop\Bearing calculator\obj\Debug\netcoreapp3.1\Bearing calculator.pdb
+C:\Users\shokh\Desktop\Bearing calculator\obj\Debug\netcoreapp3.1\Bearing calculator.genruntimeconfig.cache
+C:\Users\shokh\Desktop\Lagari-Collision avoidance\Bearing calculator\bin\Debug\netcoreapp3.1\Bearing calculator.exe
+C:\Users\shokh\Desktop\Lagari-Collision avoidance\Bearing calculator\bin\Debug\netcoreapp3.1\Bearing calculator.deps.json
+C:\Users\shokh\Desktop\Lagari-Collision avoidance\Bearing calculator\bin\Debug\netcoreapp3.1\Bearing calculator.runtimeconfig.json
+C:\Users\shokh\Desktop\Lagari-Collision avoidance\Bearing calculator\bin\Debug\netcoreapp3.1\Bearing calculator.runtimeconfig.dev.json
+C:\Users\shokh\Desktop\Lagari-Collision avoidance\Bearing calculator\bin\Debug\netcoreapp3.1\Bearing calculator.dll
+C:\Users\shokh\Desktop\Lagari-Collision avoidance\Bearing calculator\bin\Debug\netcoreapp3.1\Bearing calculator.pdb
+C:\Users\shokh\Desktop\Lagari-Collision avoidance\Bearing calculator\obj\Debug\netcoreapp3.1\Bearing calculator.csprojAssemblyReference.cache
+C:\Users\shokh\Desktop\Lagari-Collision avoidance\Bearing calculator\obj\Debug\netcoreapp3.1\Bearing calculator.AssemblyInfoInputs.cache
+C:\Users\shokh\Desktop\Lagari-Collision avoidance\Bearing calculator\obj\Debug\netcoreapp3.1\Bearing calculator.AssemblyInfo.cs
+C:\Users\shokh\Desktop\Lagari-Collision avoidance\Bearing calculator\obj\Debug\netcoreapp3.1\Bearing calculator.csproj.CoreCompileInputs.cache
+C:\Users\shokh\Desktop\Lagari-Collision avoidance\Bearing calculator\obj\Debug\netcoreapp3.1\Bearing calculator.dll
+C:\Users\shokh\Desktop\Lagari-Collision avoidance\Bearing calculator\obj\Debug\netcoreapp3.1\Bearing calculator.pdb
+C:\Users\shokh\Desktop\Lagari-Collision avoidance\Bearing calculator\obj\Debug\netcoreapp3.1\Bearing calculator.genruntimeconfig.cache

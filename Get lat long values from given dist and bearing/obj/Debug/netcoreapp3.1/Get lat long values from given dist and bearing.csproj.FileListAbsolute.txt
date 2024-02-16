@@ -1,0 +1,13 @@
+C:\Users\shokh\Desktop\Get lat long values from given dist and bearing\bin\Debug\netcoreapp3.1\Get lat long values from given dist and bearing.exe
+C:\Users\shokh\Desktop\Get lat long values from given dist and bearing\bin\Debug\netcoreapp3.1\Get lat long values from given dist and bearing.deps.json
+C:\Users\shokh\Desktop\Get lat long values from given dist and bearing\bin\Debug\netcoreapp3.1\Get lat long values from given dist and bearing.runtimeconfig.json
+C:\Users\shokh\Desktop\Get lat long values from given dist and bearing\bin\Debug\netcoreapp3.1\Get lat long values from given dist and bearing.runtimeconfig.dev.json
+C:\Users\shokh\Desktop\Get lat long values from given dist and bearing\bin\Debug\netcoreapp3.1\Get lat long values from given dist and bearing.dll
+C:\Users\shokh\Desktop\Get lat long values from given dist and bearing\bin\Debug\netcoreapp3.1\Get lat long values from given dist and bearing.pdb
+C:\Users\shokh\Desktop\Get lat long values from given dist and bearing\obj\Debug\netcoreapp3.1\Get lat long values from given dist and bearing.csprojAssemblyReference.cache
+C:\Users\shokh\Desktop\Get lat long values from given dist and bearing\obj\Debug\netcoreapp3.1\Get lat long values from given dist and bearing.AssemblyInfoInputs.cache
+C:\Users\shokh\Desktop\Get lat long values from given dist and bearing\obj\Debug\netcoreapp3.1\Get lat long values from given dist and bearing.AssemblyInfo.cs
+C:\Users\shokh\Desktop\Get lat long values from given dist and bearing\obj\Debug\netcoreapp3.1\Get lat long values from given dist and bearing.csproj.CoreCompileInputs.cache
+C:\Users\shokh\Desktop\Get lat long values from given dist and bearing\obj\Debug\netcoreapp3.1\Get lat long values from given dist and bearing.dll
+C:\Users\shokh\Desktop\Get lat long values from given dist and bearing\obj\Debug\netcoreapp3.1\Get lat long values from given dist and bearing.pdb
+C:\Users\shokh\Desktop\Get lat long values from given dist and bearing\obj\Debug\netcoreapp3.1\Get lat long values from given dist and bearing.genruntimeconfig.cache
